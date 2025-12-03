@@ -11,7 +11,7 @@ TaskManagerApp 是一个基于 **C#** 和 **XAML** 构建的桌面任务管理�
 - **开发语言**: C#
 - **UI 框架**: WPF (Windows Presentation Foundation) / XAML
 - **架构模式**: MVVM (Model-View-ViewModel)
-- **数据访问**: Entity Framework Core (推测，基于 `Migrations` 目录)
+- **数据访问**: Entity Framework Core (基于 `Migrations` 目录)
 - **设计模式**: Repository Pattern (仓储模式)
 - **开发工具**: Visual Studio
 
